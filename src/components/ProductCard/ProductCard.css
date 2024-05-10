@@ -1,0 +1,17 @@
+.pC {
+  width: 200px;
+  height: 300px;
+  border: 1px solid #000;
+  margin: 7px auto;
+}
+
+.pC:hover {
+  border: 3px solid #f00b0b;
+}
+.pC-description {
+  color: #f00b0b;
+}
+
+.pC-description:hover {
+  color: #000;
+}

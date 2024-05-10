@@ -1,11 +1,3 @@
-import React from 'react'
-
-const main = () => {
-  return (
-    <div>
-      <h1>main</h1>
-    </div>
-  );
+function f(){
+    const a = 2;
 }
-
-export default main

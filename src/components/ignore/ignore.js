@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ignore = () => {
+const main = () => {
   return (
     <div>
-      <h1>ignore</h1>
+      <h1>main</h1>
     </div>
   );
 }
 
-export default ignore
+export default main
